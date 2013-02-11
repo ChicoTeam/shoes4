@@ -31,7 +31,7 @@ Hacking
 
 1. Fork the repository and clone your fork, or
 
-        C:\tmp> git clone git://github.com/shoes/shoes4.git
+        C:\tmp> git clone git://github.com/ChicoTeam/shoes4.git
 
 2. Install a [JDK](http://www.oracle.com/technetwork/java/javase/downloads/) and [JRuby](http://jruby.org) (Windows Executable)
 
